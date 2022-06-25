@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "India"
+locale                   : "en-In"
 title                    : "Akshay Mehta"
 title_separator          : "-"
 name                     : &name "Akshay Mehta"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Akshay Mehta"
-  avatar           : ""
-  bio              : "I am a senior undergraduate at IIT Kanpur majoring in Electrical Engineering."
+  avatar           : "IMG_20220119_030604.jpg"
+  bio              : "Senior undergraduate at IIT Kanpur"
   location         : "India"
   employer         :
   #pubmed           : 
