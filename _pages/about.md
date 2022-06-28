@@ -13,8 +13,7 @@ I am currently a fourth year undergraduate from [Indian Institute of Technology,
 ---
 
 Work Experience 
-=======
-
+-------
 **Research Intern at Design Lab, UCSD**  ( _June 2022 - Present_)
   - Working on the project to investigate user responses to misinformation and disinformation under the supervision of Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/) 
      - Mini Project on analysis of comments on a reddit post : [Reddit-Post-Comments-Analysis](https://github.com/Akshay024/Reddit-Post-Comments-Analysis)
@@ -23,7 +22,6 @@ Work Experience
 
 Projects
 ------
-
 -[Audioband](https://github.com/Akshay024/AudioBand): Worked with 10 other IITK students, to assembled a wrist worn device to recognise hand gestures using ultrasonic beam forming and acoustic reflectometry under *Electronics Club, IITK*
 
 -[Algorithms based on maths]:Learned the programming techniques and their time complexity analysis such as Hashing, Modular multiplication inverse,
@@ -33,7 +31,7 @@ Matrix Exponentiations, Dynamic Programming,etc. under *Stamatics, IITK*
 
 ----
 
-# I am Familiar with
+**I am Familiar with**
   - *Programming Languages* : C, C++, Python, SQL, LATEX
   - *Libraries* : Numpy, Pandas, Matplotlib, STL
   - *Technologies* : HTML, CSS   
