@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth year undergraduate from [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) majoring in [Electrical Engineering](https://www.iitk.ac.in/ee/). I am thrilled by the 
+I am currently a fourth year undergraduate from [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) majoring in [Electrical Engineering](https://www.iitk.ac.in/ee/).
 
 ---
 
