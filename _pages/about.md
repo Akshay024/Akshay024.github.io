@@ -13,7 +13,8 @@ I am currently a fourth year undergraduate from [Indian Institute of Technology,
 ---
 
 Work Experience 
-========
+-------
+
 **Machine Learning Research Intern at UC San Diego, Design Lab**
   - *June 2022 - Present*(Virtual)
   - Developed framework for collecting social media post for research analysis
