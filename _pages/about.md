@@ -13,13 +13,13 @@ I am currently a fourth year undergraduate from [Indian Institute of Technology,
 ---
 
 Work Experience 
--------
-- **Machine Learning Research Intern at UC San Diego, Design Lab**
+========
+**Machine Learning Research Intern at UC San Diego, Design Lab**
   - *June 2022 - Present*(Virtual)
   - Developed framework for collecting social media post for research analysis
   - Analyzed social media posts using natural language processing techniques (sentiment analysis, N-grams, topic modeling)
   - Provided literature review on previous work related to summer research topic
-   - Mini Project [Reddit post comments analysis](https://github.com/Akshay024/Reddit-Post-Comments-Analysis) : analyze the comments on reddit post using NLP techniques in python.
+          - Mini Project [Reddit post comments analysis](https://github.com/Akshay024/Reddit-Post-Comments-Analysis) : analyze the comments on reddit post using NLP techniques in python.
 
 Projects
 ------
