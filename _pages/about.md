@@ -25,6 +25,18 @@ Work Experience
 
 Projects
 ------
+
+- [**DARK ADDER**]() | Mentor : Dr. Urbi Chatterjee, Department of Computer Science and Engineering, IIT Kanpur | [Research Paper](https://drive.google.com/file/d/1JPTTws5jTagQGjcGcb7b7tbhjXk73ePu/view?usp=sharing) 
+  - Developed a digital Hardware Trojan Horse (HTH) that renders approximate adder circuit’s inefficiency
+  - Exploited the probabilistic nature of approximate designs to successfully implant the Hardware Trojan Horse
+  - The presented Hardware Trojan Horse replaces the original sum-bit generation logic in a 1-bit full adder widely present as a building block in a major class of block-based low latency approximate adders
+  - Impact of a digital HTH may be mild in exact computing designs, but it alters the behaviour of approximate circuits in practical scenarios such as machine learning (K-means clustering) & image processing (Gaussian Smoothing)
+  - Dark Adder : Digital Hardware Trojan Attacks on Block based adders by Vishesh Mishra, Neelofar Hassan, _Akshay Mehta_, and Dr. Urbi Chatterjee was accepted at The 36th International Conference on VLSI Design (VLSID 2023)
+
+- [**DESIGN LOGIC GATES**](https://github.com/BibekLakra91/EE619_project-3) | Course Project, VLSI System Design
+  - Designed the 2-input NAND, NOR and XOR gate in complementary static CMOS logic using LTspice and Electric tools
+  - Validated the design rule check (DRC) and the layout vs schematic (LVS) check for each and every gate
+
 - [Audioband](https://github.com/Akshay024/AudioBand): Worked with 10 other IITK students, to assembled a wrist worn device to recognise hand gestures using ultrasonic beam forming and acoustic reflectometry under *Electronics Club, IITK*
 
 - [Algorithms based on maths]():Learned the programming techniques and their time complexity analysis such as Hashing, Modular multiplication inverse,
